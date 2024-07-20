@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+
+dataset/
+explanations/
+model/
+# plot/
+result/
+*.txt
+# *.xlsx
+*.pickle
+*.pkl
