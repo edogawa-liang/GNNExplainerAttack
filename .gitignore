@@ -5,9 +5,10 @@ __pycache__/
 dataset/
 explanations/
 model/
-# plot/
+plot/
 result/
 *.txt
 # *.xlsx
 *.pickle
 *.pkl
+.gitignore
